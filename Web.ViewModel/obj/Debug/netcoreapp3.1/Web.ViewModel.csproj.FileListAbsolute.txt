@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\bin\Debug\netcoreapp3.1\Web.ViewModel.deps.json
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\bin\Debug\netcoreapp3.1\Web.ViewModel.dll
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\bin\Debug\netcoreapp3.1\Web.ViewModel.pdb
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\bin\Debug\netcoreapp3.1\Web.Data.dll
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\bin\Debug\netcoreapp3.1\Web.Data.pdb
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.dll
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.pdb
+C:\Users\Admin\Desktop\Duan\Web\Web.ViewModel\obj\Debug\netcoreapp3.1\Web.ViewModel.csproj.CopyComplete

@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\bin\Debug\netcoreapp3.1\Web.Data.deps.json
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\bin\Debug\netcoreapp3.1\Web.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\bin\Debug\netcoreapp3.1\Web.Data.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\bin\Debug\netcoreapp3.1\Web.Data.dll
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\bin\Debug\netcoreapp3.1\Web.Data.pdb
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.dll
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.pdb
+C:\Users\Admin\Desktop\Duan\Web\Web.Data\obj\Debug\netcoreapp3.1\Web.Data.genruntimeconfig.cache
